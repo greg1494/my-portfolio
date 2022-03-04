@@ -89,7 +89,7 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background-color: gray;
 }
 
 header a {
