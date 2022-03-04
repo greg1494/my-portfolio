@@ -1,0 +1,43 @@
+[
+  {
+  "id": 1,
+  "name": "Dinner and Drink Planner",
+  "image": "https://user-images.githubusercontent.com/91296976/143802511-7d21165b-d8c2-42b9-a902-92ef2bdca9ff.png",
+  "github": "https://github.com/beggsaj/project-1-cocktail-app",
+  "deploy": "https://beggsaj.github.io/project-1-cocktail-app/",
+  "topics": "Server-Side APIs, Third-party APIs, Web APIs, Java, CSS, Bootstrap"
+  },
+  {
+  "id": 2,
+  "name": "The PawParrazi Project",
+  "image": "https://user-images.githubusercontent.com/88856741/151731367-85784187-e49a-4c16-9e18-f959a59e60cd.png",
+  "github": "https://github.com/beggsaj/project-2-pet-app",
+  "deploy": "https://fathomless-tor-55582.herokuapp.com/",
+  "topics": "Node, Express, SQL, MVC paradigm, Handlebars"
+  },
+  {
+  "id": 3,
+  "name": "budget tracker",
+  "image": "https://user-images.githubusercontent.com/91296976/156846314-f1bbb321-f11a-4053-8e56-2bf965990a4b.png",
+  "github": "https://github.com/greg1494/budget-tracker",
+  "deploy": "https://budget-tracker-7777.herokuapp.com/",
+  "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, nodemon, express"
+  },
+  {
+  "id": 4,
+  "name": "Weather Dashboard",
+  "image": "https://user-images.githubusercontent.com/91296976/142700995-457f33c9-8b99-4095-956d-e71ac82896c7.png",
+  "github": "https://github.com/greg1494/weather-dashboard",
+  "deploy": "https://greg1494.github.io/weather-dashboard/",
+  "topics": "javascript, jQuery, html, bootstrap, moment, API"
+  },
+  {
+  "id": 5,
+  "name": "Note Taker",
+  "image": "https://user-images.githubusercontent.com/91296976/156847076-f17e19eb-01f0-4b86-bf79-1b45bef61e5e.png",
+  "github": "https://github.com/greg1494/note-taker",
+  "deploy": "https://afternoon-taiga-04849.herokuapp.com/",
+  "topics": "java, express, nodemon"
+  }
+]
+ 
