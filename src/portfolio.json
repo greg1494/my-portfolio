@@ -38,6 +38,14 @@
   "github": "https://github.com/greg1494/note-taker",
   "deploy": "https://afternoon-taiga-04849.herokuapp.com/",
   "topics": "java, express, nodemon"
+  },
+  {
+    "id": 6,
+  "name": "Do Good",
+  "image": "https://github.com/Cody-Junier/Do-Good/raw/main/Screenshot.png",
+  "github": "https://github.com/Cody-Junier/Do-Good/branches/active",
+  "deploy": "https://do-good-project.herokuapp.com/",
+  "topics": "Apollo-server-express, node, MongoDB, graphql, mongoose, @apollo/client,axios, react"
   }
 ]
  
