@@ -11,10 +11,10 @@ return(
                 
 
                 <p class="mt-5">
-                <a href="https://www.linkedin.com/in/gregory-christiansen-b82a60151/"><img src="https://img.icons8.com/glyph-neue/256/000000/linkedin.png" alt="LinkedIn"/></a>
+                <a href="https://1drv.ms/w/s!AqVDkzdQbtprhYwZIBxRirQfOgm18A?e=EbFvsY"><img src="https://img.icons8.com/material/256/000000/open-resume--v1.png" alt="Resume"/></a>
                 </p>
                 <p>
-                Download my full <a href="https://www.linkedin.com/in/gregory-christiansen-b82a60151/" class="link">resume</a>
+                Download my full <a href="/My%20Resume.pdf" download>Resume</a>
                 <br></br>
                 </p>
             </div>
